@@ -1,0 +1,1 @@
+print('{"GmmServersGroup": {"1": {"nodeAge": 12, "nodeId": 1, "nodeName": "Server 1"}, "2": {"nodeAge": 12, "nodeId": 2, "nodeName": "Server 2"}, "3": {"nodeAge": 1, "nodeId": 3, "nodeName": "Server 3"}}}')
